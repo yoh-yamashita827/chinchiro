@@ -1,0 +1,63 @@
+【概要】
+皿、茶碗、お椀
+
+※1番目の画像はUnityでShader：UnityChanToonShaderを使用して撮影したものです。
+※2番目の画像はUnityでShader：Standardを使用時にスクリーンショットしたものです。
+※3番目の画像はUnityでShader：UnityChanToonShaderを使用時にスクリーンショットしたものです。
+※4番目の画像はBlenderを使用時にスクリーンショットした四面図です。
+※ UnityChanToonShaderをインストールしていない場合全体がピンクに表示される場合があります。
+シェーダーをStandard等に変更するか、UnityChanToonShaderをインストールしてください。
+※ Light Colorは白で撮影しています。
+
+【ポリゴン数】
+・皿…△212
+・茶碗…△212
+・お椀…△164
+
+【ファイル】
+Bowl_TypeA.blend(blenderファイル)
+Bowl_TypeB.blend(blenderファイル)
+Dish.blend(blenderファイル)
+
+Bowl_TypeA.fbx(FBXファイル)
+Bowl_TypeB.fbx(FBXファイル)
+Dish.fbx(FBXファイル)
+
+TEX_Bowl_TypeA.png(テクスチャ)
+TEX_Bowl_TypeB.png(テクスチャ)
+TEX_Dish.png(テクスチャ)
+
+Dish.unitypackage(Unityパッケージ)
+※Unityを起動してファイルをダブルクリックまたはUnityにドロップすることでもすぐに使用できます。
+
+※Unityフォルダ・ファイル構成一覧
+01.Chara : キャラクター
+02.Enemy : 敵
+03.Animal : 動物
+04.Plants : 植物
+05.Interior : インテリア
+06.Exterior : エクステリア
+07.Item : 道具(体で使う物)
+08.Food_And_Drink : 飲食物
+09.Building : 建物
+10.Accessory : アクセサリー(キャラクターに装飾するもの)
+11.Other : その他
+
+
+【利用規約】
+ゲームや動画など自由に使用してください。
+・商用利用可
+・改変可
+・R-18可
+・再配布禁止
+・クレジットの表記は自由
+・著作権は作者である月日 光が帰属します。
+
+・規約内容と同梱モデルは予告なく変更となる場合があります。規約内容については最新のものを適用することとします。
+・本データ本データを使用したことによって発生したトラブルや損失に対して制作者は一切の責任を負いません。
+
+【お問い合わせ】
+tsukihi.hikaru@gmail.com
+
+【変更・修正】
+5/13 v1.02 … UnityPackage フォルダ・ファイル構成変更、テクスチャ構成変更
